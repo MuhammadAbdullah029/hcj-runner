@@ -168,6 +168,9 @@ button span svg{
         padding: 0;
         overflow: hidden;
     }
+    .r{
+        display: none;
+    }
     .left{
         position: relative;
     }
